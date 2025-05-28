@@ -81,4 +81,4 @@ This Python script provides an interactive desktop application where users can t
 Execute the main Python script:
 
 ```bash
-python your_script_name.py
+python pre.py
