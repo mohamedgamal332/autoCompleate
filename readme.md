@@ -2,8 +2,7 @@
 
 This Python script provides an interactive desktop application where users can type text, and after a short pause, the application predicts the next word they might type using a pre-trained GPT-2 model.
 
-![Screenshot (Optional - Add a screenshot of your app here if you like)](placeholder_screenshot.png)
-*(Replace `placeholder_screenshot.png` with an actual screenshot if you add one, or remove this line.)*
+![Screenshot](output.png)
 
 ## Features
 
